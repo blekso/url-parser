@@ -114,7 +114,7 @@ npm run test:parser
   Note: These spawn the built CLI (`dist/index.js`). If `dist` is missing, run `npm run build` first.
 
 ```
-npm run test:cli
+npm run test:integration
 ```
 
 The test suite includes:
