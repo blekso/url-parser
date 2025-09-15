@@ -1,0 +1,9 @@
+bla bla asdfasdf www.google.com
+here, [ www.google.com ] fg
+yet another example [ some text www.google.com ] sdfgsd
+multiple urls [bla www.first.com asdfasdf www.second.com truc]
+multiple levels[ [www.first.com] www.second.com]
+multiple levels[ www.first.com [www.third.com]]
+asdf \[www.google.com]
+asdf \\[www.google.com]
+[ www.ingemark.com ]
